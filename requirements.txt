@@ -1,10 +1,11 @@
 Pillow==5.0.0
 django==2.2.2
 django-ckeditor==5.7.1
+gunicorn==19.9.0
+django-heoriku==0.3.1
 
 # dj-database-url==0.3.0
 # dj-static==0.0.6
-# gunicorn==19.6.0
 # Unipath==1.0
 # python-decouple==3
 # Markdown==2.6.6
