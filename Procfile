@@ -1,1 +1,1 @@
-web: gunicorn webempresarial.wsgi
+web: gunicorn webempresa.wsgi
