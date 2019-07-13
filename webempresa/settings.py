@@ -33,7 +33,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = '587'
 EMAIL_HOST_USER = 'contacto@plasticosplasa.com'
-EMAIL_HOST_PASSWORD = 'ander2019'
+EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 
 # Application definition
 
