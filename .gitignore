@@ -69,3 +69,6 @@ Control.system-ca-bundle
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+# Media folder
+media/
